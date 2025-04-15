@@ -216,6 +216,7 @@ export default function ContentLibraryPage() {
                           </span>
                         )}
                       </div>
+                      <p></p>
                     </div>
                     
                     {/* Cleaner button */}
